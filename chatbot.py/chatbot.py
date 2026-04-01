@@ -1,4 +1,4 @@
-def chatbot():byee
+def chatbot():
     print("Chatbot: Hello! I am your friendly chatbot. Type 'bye' to end the chat.")
     
     while True:
