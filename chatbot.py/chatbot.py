@@ -4,7 +4,7 @@ def chatbot():
     while True:
         user_input = input("You: ").lower()  # convert input to lowercase for easy comparison
         
-        if user_input in ["hello", "hi", "hey"]:
+        if user_input in ["helloo", "hi", "hey"]:
             print("Chatbot: Hi there! ")
         
         elif user_input in ["how are you", "how are you doing"]:
